@@ -1,6 +1,8 @@
 # [Google Season of Docs](https://developers.google.com/season-of-docs/) for [Wagtail](https://wagtail.org/)
 
-🚧 Archived - for similar programs, see [our Google Summer of Code participation documentation](https://wagtail.org/gsoc/)
+🚧 **Archived project** - for similar programs, see [our Google Summer of Code participation documentation](https://wagtail.org/gsoc/)
+
+----
 
 Welcome! This repository contains all resources for Wagtail’s participation to [Google Season of Docs](https://developers.google.com/season-of-docs/).
 
